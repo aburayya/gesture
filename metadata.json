@@ -1,0 +1,5 @@
+{
+  "name": "Gesture Narrator",
+  "description": "An interactive story-building application using 84 abstract hand gestures. Select four gestures to generate a sequence of events and visual hand-gesture representations using the Gemini API.",
+  "requestFramePermissions": []
+}
